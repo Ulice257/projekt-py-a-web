@@ -15,4 +15,4 @@ print("hihi")
 
 ### TODO:
 - [x] Dodělat dokumentaci
-- [] Vylepšit kód
+- [ ] Vylepšit kód
